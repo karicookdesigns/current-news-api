@@ -26,10 +26,10 @@ The following programs were used to develop this project:
 ## :gear: Installation
 ``` bash
   # Clone the repository:
-  $ https://github.com/karicookdesigns/news-articles-api
+  $ https://github.com/karicookdesigns/current-news-api
 
   # Enter directory:
-  $ cd news-articles-api
+  $ cd current-news-api
   
   # Install dependencies:
   $ npm i
