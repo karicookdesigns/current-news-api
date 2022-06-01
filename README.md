@@ -33,6 +33,7 @@ The following programs were used to develop this project:
   
   # Install dependencies:
   $ npm i
+  $ npm install axios
 ```
 ## :globe_with_meridians: Demo
 View the live project here:
